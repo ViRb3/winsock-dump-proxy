@@ -19,4 +19,4 @@ A: `SOCKDUMP` is not accessible on your desktop
 - CMake 3.16+
 
 ## References
-- Based on [jvm-dump-proxy](https://github.com/ViRb3/jvm-dump-proxy/releases), check it out for a detailed technical explanation
+- Based on [jvm-dump-proxy](https://github.com/ViRb3/jvm-dump-proxy), check it out for a detailed technical explanation
